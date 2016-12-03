@@ -1,20 +1,28 @@
-# Project Title
+# SampleOrg
 
-This project will be the front-end of my organization I hope to domain and publish. 
+This project will be the front-end of my non-profit I plan to domain and publish - requests and suggestions are always welcome!
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Everything included will be the landing page, About, Volunteer, Donate, and the "Talk" page. Everything is a work in-progress but I would love insight in what I can improve.
 
-### Prerequisites
+### Future Updates
 
-What things you need to install the software and how to install them
+The front-end framework is almost complete and I hope to recieve outsider insight of what I can improve and additional features to add. Back-end framework coming soon.
+
+Bug fixes needed to be addressed:
 
 ```
-Give examples
+Resizing Issues
+```
+```
+Different browser issues
+```
+```
+Some elements not aligned properly
 ```
 
-### Installing
+## Navigating Pages
 
 A step by step series of examples that tell you have to get a development env running
 
